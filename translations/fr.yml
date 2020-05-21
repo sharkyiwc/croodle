@@ -76,11 +76,11 @@ create:
             P3M: 'Dans 3 mois'
             P6M: 'Dans 6 mois'
             P1Y: 'Dans un an'
-            never: Jamais
+            never: Never
         forceAnswer:
             label: 'Forcer une réponse pour chaque option?'
     title: 'Créer un sondage'
-error:
+error:s
     poll:
         decryptionFailed:
             title: 'Échec du déchiffrement'
