@@ -4,5 +4,6 @@ export default {
   'en': 'english',
   'en-gb': 'english (GB)',
   'es': 'español',
+  'fr': 'Français',
   'it': 'italiano'
 };
